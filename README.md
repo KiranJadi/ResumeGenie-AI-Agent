@@ -46,10 +46,10 @@ GOOGLE_API_KEY = "your-api-key-here"
 
 🧪 Run the Demo
 '''
-python demo/careerboost_demo.py
+python demo/ResumeGenie_demo.py
 '''
 
-'''''''
+--------
 
 📊 Architecture
 Architecture Diagram
