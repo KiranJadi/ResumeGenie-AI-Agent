@@ -34,20 +34,20 @@ CareerBoost is a multi-agent AI system designed to empower job seekers with pers
 
 ```bash
 https://github.com/KiranJadi/ResumeGenie-AI-Agent.git
-'''bash
+
 cd careerboost-ai-agent
 pip install -r requirements.txt
-'''
+```
 
 Create a config/secrets.py file:
-'''
+```
 GOOGLE_API_KEY = "your-api-key-here"
-'''
+```
 
 🧪 Run the Demo
-'''
+```
 python demo/ResumeGenie_demo.py
-'''
+```
 
 --------
 
@@ -62,14 +62,12 @@ See assets/screenshots/ for CLI snapshots of each tool in action.
 
 ## 🧭 2. Architecture Diagram
 
-
 - `CoordinatorAgent` at the center
 - Arrows to:
   - `CareerTools` (with 4 labeled tools)
   - `SessionManager` (for memory)
   - `Gemini API` (external LLM)
 - Optional: Logging and API config modules
-
 
 
 ## 🖼️ 3. Sample Outputs for Screenshots
@@ -87,8 +85,6 @@ See assets/screenshots/ for CLI snapshots of each tool in action.
 
 ## 📽️ 4. Presentation Deck
 
-
-```markdown
 # Slide 1: CareerBoost AI Agent
 **Kaggle Capstone Submission**  
 Built by Kiran | November 2025
