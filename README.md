@@ -33,7 +33,7 @@ CareerBoost is a multi-agent AI system designed to empower job seekers with pers
 ## ⚙️ Setup
 
 ```bash
-git clone https://github.com/yourusername/careerboost-ai-agent.git
+https://github.com/KiranJadi/ResumeGenie-AI-Agent.git
 '''bash
 cd careerboost-ai-agent
 pip install -r requirements.txt
